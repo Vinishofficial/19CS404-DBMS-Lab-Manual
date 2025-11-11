@@ -1,5 +1,10 @@
 # ER Diagram Workshop – Submission Template
 
+~~~
+NAME: VINISH RAJ R
+REG NO: 212223230243
+~~~
+
 ## Objective
 To understand and apply ER modeling concepts by creating ER diagrams for real-world applications.
 
