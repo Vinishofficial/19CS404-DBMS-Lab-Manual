@@ -1,7 +1,9 @@
 # Experiment 3: DML Commands
 
-#### NAME : VINISH RAJ R
-#### Reg.No. : 212223230243
+~~~
+NAME: VINISH RAJ R
+REG NO: 212223230243
+~~~
 
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
