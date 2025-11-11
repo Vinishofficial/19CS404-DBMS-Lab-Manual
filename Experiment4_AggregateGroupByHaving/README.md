@@ -1,5 +1,10 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
 
+~~~
+NAME: VINISH RAJ R
+REG NO: 212223230243
+~~~
+
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
