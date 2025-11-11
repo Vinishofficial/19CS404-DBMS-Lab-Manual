@@ -1,7 +1,9 @@
 # Experiment 2: DDL Commands
 
-#### NAME: VINISH RAJ R
-#### REG.NO: 212223230243
+~~~
+NAME: VINISH RAJ R
+REG NO: 212223230243
+~~~
 
 ## AIM
 To study and implement DDL commands and different types of constraints.
