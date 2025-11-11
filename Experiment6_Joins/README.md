@@ -1,8 +1,8 @@
 # Experiment 6: Joins
 
 ~~~
-NAME: ADITHYA V
-REG NO: 212223110001
+NAME: VINISH RAJ R
+REG NO: 212223230243
 ~~~
 ## AIM
 To study and implement different types of joins.
